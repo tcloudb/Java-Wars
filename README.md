@@ -1,2 +1,2 @@
 # Java-Wars
-Repository containing code from the Java Wars project
+Repository containing code and images from the Java Wars project
